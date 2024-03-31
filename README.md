@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chang Nguyen
 - 👀 I’m interested in sleep and chill
-- 🌱 I’m currently learning English,C++ and 
+- 🌱 I’m currently learning English,C++ and JavaScript
 - ⚡ Fun fact: cow and fly
 
 <!---
